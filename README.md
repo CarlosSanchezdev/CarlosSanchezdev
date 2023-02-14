@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Carlos Sánchez Yerga
+# 👋 Hi, I’m Carlos Sánchez Yerga - Full Stack Developer Jr
  
 I'm currently learning fullstack developer in FactoriaF5
 
@@ -13,13 +13,7 @@ I'm currently learning fullstack developer in FactoriaF5
 </div>
 
 
-# CodeWars
-
-<p dir="auto" align="center" >
-  <a href="https://www.codewars.com/about">
-    <img align="center" src="https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png">
-  </a>
-</p>
+## CodeWars
 
 
 <p dir="auto" align="center">
